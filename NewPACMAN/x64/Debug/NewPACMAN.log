@@ -1,0 +1,29 @@
+﻿  PAC.cpp
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(209): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(272): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(358): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(375): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(395): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(402): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(411): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(418): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(419): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(425): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(426): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(432): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(558): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(562): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(566): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\source\repos\newpacman\newpacman\pac.cpp(611): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  NewPACMAN.vcxproj -> C:\Users\USER\source\repos\NewPACMAN\x64\Debug\NewPACMAN.exe
